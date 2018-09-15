@@ -1,0 +1,40 @@
+#header {
+    background-image: url("header.png"); 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#text {
+	color: white;
+}
+body {
+    background: url('background.png') no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    //min-height: 500px;
+    //background-color: #fff;
+    margin: 0;
+}
+#Stream {
+    background: url('American Fury.png') no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    //min-height: 500px;
+    //background-color: #fff;
+    margin: 0;
+}
+.divider {
+    //background: url('background.png') no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    //min-height: 500px;
+    //background-color: #fff;
+    margin: 0;
+}
